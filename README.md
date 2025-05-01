@@ -1,1 +1,4 @@
-# JavaScript_2025.05.01
+# study JavaScript
+  - study Converting a JSON Text to a JavaScript Object
+  - modules
+  - classes
